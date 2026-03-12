@@ -1,16 +1,27 @@
-## Hi there 👋
+# Cześć, jestem Marcin! 👋
 
-<!--
-**MarcinBloch98/MarcinBloch98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Student Elektrotechniki | Pasjonat Automatyki i PLC
 
-Here are some ideas to get you started:
+Zajmuję się projektowaniem systemów sterowania i programowaniem sterowników przemysłowych. Buduję swoje portfolio, łącząc wiedzę teoretyczną z elektrotechniki z praktycznym kodowaniem w standardach przemysłowych.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Moje umiejętności:
+
+* **Programowanie PLC:** Structured Text (ST), SCL, podstawy drabinki (LAD)
+* **Standardy:** IEC 61131-3, logika automatów stanów (State Machine)
+* **Elektrotechnika:** Czytanie schematów elektrycznych, projektowanie układów sterowania
+* **Narzędzia:** GitHub for Engineers, środowiska IDE dla PLC
+
+---
+
+### 🚀 Moje projekty:
+* **[Nauka-PLC-ST](https://github.com/MarcinBloch98/Nauka-PLC-ST):** Projekty automatyki dla PLC w języku tekstowym
+---
+
+### 📫 Kontakt:
+* **LinkedIn:** [Marcin Bloch](https://www.linkedin.com/in/marcin-bloch-a8b894317/)
+---
+
+### 📊 Moje statystyki GitHub:
+![Moje statystyki](https://github-readme-stats.vercel.app/api?username=MarcinBloch98&show_icons=true&theme=radical)
