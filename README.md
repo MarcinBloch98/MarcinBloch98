@@ -11,7 +11,7 @@ Zajmuję się projektowaniem systemów sterowania i programowaniem sterowników 
 * **Programowanie PLC:** Structured Text (ST), SCL, podstawy drabinki (LAD)
 * **Standardy:** IEC 61131-3, logika automatów stanów (State Machine)
 * **Elektrotechnika:** Czytanie schematów elektrycznych, projektowanie układów sterowania
-* **Narzędzia:** GitHub for Engineers, środowiska IDE dla PLC
+* **Oprogramowanie:** TIA Portal, CODESYS, GitHub
 
 ---
 
