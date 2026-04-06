@@ -24,4 +24,6 @@ Zajmuję się projektowaniem systemów sterowania i programowaniem sterowników 
 ---
 
 ### 📊 Moje statystyki GitHub:
-![Moje statystyki](https://github-readme-stats.vercel.app/api?username=MarcinBloch98&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcinBloch98&show_icons=true&theme=tokyonight&count_private=true" alt="Statystyki Marcina" />
+</p>
